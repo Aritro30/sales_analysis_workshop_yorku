@@ -26,4 +26,4 @@ By the end of this project, you will have gained practical experience in data an
 To participate in this project, you should have a basic understanding of Python programming and be familiar with fundamental data analysis concepts. Familiarity with Pandas and Matplotlib will be beneficial but not mandatory.
 
 ## Getting Started
-This work was done in Google Colab and the notebook is available [here](https://github.com/Aritro30/sales_analysis_workshop_yorku/blob/main/sales_analysis_workshop_yorku.ipynb). To get started, ensure you have the necessary Python environment set up with the required libraries installed. The dataset will be provided to you at the beginning of the workshop.
+This work is done in Google Colab and the notebook is available [here](https://github.com/Aritro30/sales_analysis_workshop_yorku/blob/main/sales_analysis_workshop_yorku.ipynb). To get started, ensure you have the necessary Python environment set up with the required libraries installed. The dataset will be provided to you at the beginning of the workshop.
